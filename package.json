@@ -1,0 +1,19 @@
+{
+  "name": "tenoch-bridge",
+  "version": "1.0.0",
+  "description": "project focus in launch nft to all blockchains in L2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Metavers-Empires/Tenoch-Bridge.git"
+  },
+  "author": "RAFAEL FUENTES",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Metavers-Empires/Tenoch-Bridge/issues"
+  },
+  "homepage": "https://github.com/Metavers-Empires/Tenoch-Bridge#readme"
+}
