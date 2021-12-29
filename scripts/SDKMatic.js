@@ -1,0 +1,1 @@
+const MaticPOSClient = require (`@maticnetwork/maticjs`).MaticPOSClient;
