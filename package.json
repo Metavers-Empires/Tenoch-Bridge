@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Metavers-Empires/Tenoch-Bridge/issues"
   },
-  "homepage": "https://github.com/Metavers-Empires/Tenoch-Bridge#readme"
+  "homepage": "https://github.com/Metavers-Empires/Tenoch-Bridge#readme",
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.1.0"
+  }
 }
